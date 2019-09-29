@@ -1,0 +1,38 @@
+.amway {
+    width: 350px;
+    float: left;
+    margin: 30px;
+    text-align: center;
+    position: relative;
+    overflow: auto;
+}
+
+.cheeto {
+    width: 350px;
+    float: left;
+    margin: 30px;
+}
+
+.code {
+    width: 350px;
+    float: left;
+    margin: 30px;
+}
+
+.cooking {
+    width: 350px;
+    float: left;
+    margin: 30px;
+}
+
+.music {
+    width: 350px;
+    float: left;
+    margin: 30px;
+}
+
+.movie {
+    width: 350px;
+    float: left;
+    margin: 30px;
+}

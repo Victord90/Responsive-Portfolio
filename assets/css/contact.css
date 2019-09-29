@@ -1,0 +1,38 @@
+body {
+    font-size: 20px;
+}
+
+.info {
+    margin: 50px auto;
+    text-align: left;
+}
+
+
+input {
+    width: 75%;
+    display: inline-block;
+    margin: 8px 0;
+    padding: 12px 20px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+#message {
+    width: 75%;
+    height: 300px;
+    overflow: auto;
+    margin-left: 15px;
+}
+
+.submit {
+    width: 75%;
+    background-color: deepskyblue;
+    color: white;
+}
+
+input[type=submit]:hover{
+    background-color: lightskyblue;
+    cursor: pointer;
+    
+}
+
