@@ -1,11 +1,33 @@
-.amway {
+#sypro {
+    width: 300px;
+    float: left;
+    margin: 30px;
+    height: 200px;
+}
+
+.banner {
     width: 350px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-image: url("../images/spyro-fav.png"); 
+    background-size: 100%;
+}
+
+
+
+/* .amway {
+    width: 350px;
+    height: 250px;
     float: left;
     margin: 30px;
     text-align: center;
     position: relative;
     overflow: auto;
-}
+} */
 
 .cheeto {
     width: 350px;
