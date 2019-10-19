@@ -5,7 +5,7 @@
     height: 200px;
 }
 
-.banner {
+#gemCollector {
     width: 350px;
     height: 250px;
     float: left;
@@ -14,6 +14,18 @@
     position: relative;
     overflow: hidden;
     background-image: url("../images/spyro-fav.png"); 
+    background-size: 100%;
+}
+
+#triviaGame {
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-image: url("../images/magicFavicon.jpg"); 
     background-size: 100%;
 }
 
