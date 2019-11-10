@@ -53,6 +53,18 @@
     background-size: 100%;
 }
 
+#BrewFinder{
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-image: url("../images/brew.jpg"); 
+    background-size: 100%;
+}
+
 
 
 /* .amway {
